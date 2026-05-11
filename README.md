@@ -139,11 +139,19 @@ EDA helps understand business performance and market demand patterns.
 The project includes:
 
 - **Line Charts** – Sales trend over time
+<img width="1700" height="590" alt="image" src="https://github.com/user-attachments/assets/cb352d8a-6d8a-439f-998d-1327bb2255d1" />
+
 - **Bar Charts** – Store and product comparison
+<img width="1700" height="591" alt="image" src="https://github.com/user-attachments/assets/bb28f890-d322-4610-a21c-2ac004abcaab" />
+
 - **Histograms** – Sales distribution
+<img width="1693" height="585" alt="image" src="https://github.com/user-attachments/assets/71f4455e-af4a-46f6-b586-315e565e5327" />
+
 - **Box Plots** – Outlier detection
+<img width="1694" height="587" alt="image" src="https://github.com/user-attachments/assets/3196dba8-ba3b-4763-8819-24184a437938" />
+
 - **Heatmaps** – Correlation between features
-- **Scatter Plots** – Relationship analysis
+<img width="1699" height="586" alt="image" src="https://github.com/user-attachments/assets/45b58df2-4d25-48b0-87d7-b9ef0af6128d" />
 
 Visualizations make complex sales data easy to interpret and understand.
 
